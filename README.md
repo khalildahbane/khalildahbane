@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm khalildahbane</h1>
 <h3 align="center">A passionate frontend developer from new world</h3>
 
-<p align="left"> <a href="https://twitter.com/kelldani1" target="blank"><img src="https://user-badge.committers.top/morocco_public/khalildahbane.svg" alt="khalildahbane" /><img src="https://img.shields.io/twitter/follow/kelldani1?logo=twitter&style=for-the-badge" alt="kelldani1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kelldani1" target="blank"><img src="https://img.shields.io/twitter/follow/kelldani1?logo=twitter&style=for-the-badge" alt="kelldani1" /></a> 
+ <a href="https://committers.top/morocco_public#khalildahbane" target="blank"><img src="https://user-badge.committers.top/morocco_public/khalildahbane.svg" alt="khalildahbane" /></a>
+</p>
 
 - 🔭 I’m currently working on **pyhton**
 
