@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/kelldani1" target="blank"><img src="https://img.shields.io/twitter/follow/kelldani1?logo=twitter&style=for-the-badge" alt="kelldani1" /></a> 
 </p>
 
-- 🔭 I’m currently working on **pyhton**
+- 🔭 I’m currently working on **front-end**
 
 - 🌱 I’m currently learning **C, python, java**
 
