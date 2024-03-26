@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Front-End**
 
-- 🌱 I’m currently learning **C, python, java**
+- 🌱 I’m currently learning **C, PYTHON, JAVA, HTML, CSS**
 
 - 📫 How to reach me **khalildahbane00@gmail.com**
 
